@@ -1,0 +1,8 @@
+detalle {
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.card {
+    height: 100%;
+}
